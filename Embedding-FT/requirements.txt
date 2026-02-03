@@ -1,0 +1,12 @@
+fitz==0.0.1.dev2
+jieba==0.42.1
+matplotlib==3.10.8
+modelscope==1.33.0
+numpy==2.4.2
+pandas==3.0.0
+peft==0.18.1
+Requests==2.32.5
+seaborn==0.13.2
+torch==2.9.0+cu126
+tqdm==4.65.2
+transformers==4.57.3
